@@ -1,3 +1,9 @@
+# Programming Assignment 2
+## How to use
+1. Use makeCacheMatrix() to create matrix, which has special get/set/getinv/setinv function built into it.
+2. Use cacheSolve() to compute the inverse of a matrix, which uses the special matrix created via makeCacheMatrix() to store/restore the inverse of the matrix. If there's no cache, it goes ahead and create one.
+
+# Below is the original README
 ### Introduction
 
 This second programming assignment will require you to write an R

@@ -1,4 +1,4 @@
-# Assignment 3: Caching the Inverse of a Matrix
+# Assignment 2: Caching the Inverse of a Matrix
 
 # Make a special list, which encapsulate a regular matrix, providing
 # get/set/setinv/getinv function
